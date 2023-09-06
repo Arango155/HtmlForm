@@ -1,0 +1,32 @@
+body {
+  background-color: #ffff;
+  padding: 10%;
+}
+
+.formulario {
+  background-color: #f6ea75;
+  margin: 0 auto;
+  padding: 5%;
+  max-width: 300px;
+  min-width: 150px;
+  box-shadow: black 5px 3px;
+}
+
+.formulario h1 {
+  text-align: center;
+}
+
+.formulario input {
+  border-radius: 2%;
+  padding-bottom: 5%;
+}
+
+.formulario label {
+  padding-top: 10%;
+  font-weight: bold;
+}
+
+.formulario button {
+  background-color: black;
+  color: white;
+}
